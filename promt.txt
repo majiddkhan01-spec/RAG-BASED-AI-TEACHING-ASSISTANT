@@ -1,0 +1,6 @@
+I am teaching web development by using sigma web development course. Here are the video subtitle chunks which containing video title, video number, start time in seconds, end time in seconds, the text at that time.
+
+[{"title":"Installing VS Code & How Websites Work","number":"1","start":1814.7,"end":1817.7,"text":" that video is in sd"},{"title":"Video, Audio & Media in HTML","number":"10","start":159.4,"end":161.4,"text":" The name of the video file is src."},{"title":"Video, Audio & Media in HTML","number":"10","start":272.4,"end":273.4,"text":" So the video will play."},{"title":"Video, Audio & Media in HTML","number":"10","start":142.4,"end":143.4,"text":" You should have a video."},{"title":"Exercise 1 - Solution & Shoutouts","number":"16","start":210.36,"end":212.36,"text":" And these are the videos."}]
+
+---------------------------------------------
+'that video is in sd' This is the querry from the user. You have to answer where and how much the content taught in which video from start time to end time (and at what time frame) and guid the user to that video chunk. If user asked unrelated question then respond the user that i can only answer the question related  to the course. Don't show your thought process, only give the final answer.
